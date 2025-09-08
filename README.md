@@ -2,7 +2,12 @@
 
 My name is David. I like learning new things by starting with a silly idea and letting it grow. I just finished a batch at the [Recurse Center](https://github.com/recursecenter) and am looking forward to the next adventure!
 
+<img height="160" src="https://github.com/user-attachments/assets/c842757f-5cca-46d2-b629-e4e7f1fee1e5"> <img height="160" alt="interface" src="https://github.com/user-attachments/assets/bcd8e6a4-22d8-4081-a3a8-38e2643944f9" /> <img height="160" src="https://github.com/user-attachments/assets/42ebf4b9-2870-419f-9fba-24881061e45c" /> <img height="160" src="https://github.com/user-attachments/assets/e4fd79fa-4955-4dd1-9b23-6b5d44f675db"> <img height="160" src="https://github.com/user-attachments/assets/e4a729e6-f608-4cc5-8813-dbf7597479dc" />
+
+
 ### What I am currently working on
+
+
 
 - [`/wobblybits/expressions`](https://github.com/wobblybits/expressions): Finishing up (🤞) the UI for configuring the pareidolia image transformation, improving the transformations themselves, adding an emotion detection component, and then having more fun with the social transference simulation
 - [`/rafl/oeis-A007082`](https://github.com/rafl/oeis-A007082): A highly optimized counting algorithm to compute the number of Eulerian circuits on the complete graph
